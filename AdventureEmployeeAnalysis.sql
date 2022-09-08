@@ -76,6 +76,6 @@ AS
 		ON e.ParentEmployeeKey = d.EmployeeID
 	)
 -- Statement that excutes the CTE
-SELECT ManagerID, EmployeeID, Title, DeptID, Level								
+SELECT ManagerID, EmployeeID, Title, DeptID, Level
 FROM DirectReports
 WHERE DeptID = 'Information Services' OR Level = 0
