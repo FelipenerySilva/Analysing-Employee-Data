@@ -1,6 +1,6 @@
 # Employee-SQL-Data-Analysis
 
-This repository contains a T-SQL file with employee data analysis from the AdventureWorks sample data. [Microsoft](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) offers the AdventureWorks data set to provide a sample database, data warehouse, and OLAP cube.<br>
+This repository contains a T-SQL script file with employee data analysis from the AdventureWorks sample data. [Microsoft](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) offers the AdventureWorks data set to provide a sample database, data warehouse, and OLAP cube.<br>
 
 ### Project Objective<br>
 
