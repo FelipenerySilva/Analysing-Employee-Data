@@ -14,9 +14,9 @@ Most systems that manage employee data, store them in a common format with a sta
 
 The analysis was able to answer some of the most common question when working with employee data. How many active employees were there on a given day?. In this case I used November 13th, 2013. Most of the time management this is related to reporting externally or for staff plans.<br> 
 
-To show an active trend of employees we used the date table and a subquery against the employee table to get the number of people that were active. Then we applied the same logic as previously. 
+To show an active trend of employees I used the date table and a subquery against the employee table to get the number of people that were active. 
 
-Finally, we were able to practice the use of common table expression CTEs. CTEs are temporary structures that contain separate data than the main query and are self- referencing. This allowed us to perform a hierarchy analysis of employee. 
+Finally, I was able to practice the use of common table expression CTEs. CTEs are temporary structures that contain separate data than the main query. In addition, they are self- referencing. This allows to perform a hierarchy analysis of employees. 
 
 
 
